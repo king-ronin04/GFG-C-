@@ -1,4 +1,4 @@
 # GFG-CPP
 Coding Practice for CP
 
-Course: GFG DSA-Self paced 
+Course: GFG Complete Interview Preparation 
